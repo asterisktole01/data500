@@ -1,2 +1,2 @@
 # data500
-Data Mining Subject
+Computing and Databases
